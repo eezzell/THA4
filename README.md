@@ -1,7 +1,7 @@
 # THA4
 Background on research question:  For our research project, we will be using a differences-in-differences methodology. The first step of this research method is to compare the area in which the metering policy was enacted with an area with similar or equal trends in which metering was not enacted. Therefore, we must find areas with comparable trends from April 2017-April 2018 before the metering policy was enacted. In order to check the validity of potential comparison areas, we must graph the trends in apprehensions for three potential areas of comparision. After graphing the trends, we will examine which areas have a similar slope, and therefore could be used for comparison, pending similar economic and social trends as well.
 
-Research question: Do the Del Rio or Rio Grande Valley border patrol sectors have similar trends from April 2017-April 2018 to the El Paso border patrol sector before May 2018, when metering was enacted in El Paso. 
+Research question: Do the Del Rio or Rio Grande Valley border patrol sectors display similar trends from April 2017-April 2018 to the El Paso border patrol sector before May 2018, when metering was enacted in El Paso?
 
 1. First we gather the data from the Customs and Border Patrol website, and combine data sources to make the data sets we need. These compilation steps, as well as the data sources and dictionary are detailed in the document in this repository entitled, "sources_compilation_dictionary." 
 2. Next we upload the three spreadsheets into Colab in order to graph the trends in the three areas for comparison. These steps are detailed in the Colab notebook entitled, "tha4" found at this link: https://colab.research.google.com/drive/1spzD-QtRf8XByjigSWmSnnWYrCg5kyLF
